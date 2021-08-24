@@ -1,3 +1,44 @@
 omarxlima
 
 bora programar
+
+Install
+Comando: 
+Git init //iniciar na pasta
+Git status //quais arquivos foram iniciados
+
+Adicionar ao controle de versão:
+Git add ”omarxlima.txt”
+Adicionar vários arquivos ao controle de versão:
+Git add .
+
+Criar versões do comit
+Git commit –m “commit inicial”
+
+
+Adicionar link do github para ser enviado
+Git remote add origin https://github.com/omarxlima/projeto01
+
+Enviar
+Git push
+
+
+Modificar
+Git status
+Git commit –m “permitir novos usuarios”
+
+Ver históricos
+Git reflog
+
+Voltar históricos quando teve erro
+Git reset –hard informa o id
+
+Branch
+Git branch
+Locais para armazenar
+
+Git branch staging
+
+Escolher entre branchs
+Git checkout staging
+
